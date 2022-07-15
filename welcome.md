@@ -5,7 +5,6 @@ slug: welcome
 tags: startup, beginners
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1657877050984/mnciHZYcx.png?auto=compress
 domain: blog.benweston.me.uk
-publishAs: @bweston26918
 ---
 
 # Welcome to my new blog!
