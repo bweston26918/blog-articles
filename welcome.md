@@ -2,16 +2,7 @@
 title: Welcome to my new blog!
 subtitle: A world of sharing incoming!
 slug: welcome
-tags: [{
-    "name": "startup",
-    "slug": "startup",
-    "objectID": "56744721958ef13879b94bbb"
-  },
-  {
-    "name": "beginners",
-    "slug": "beginners",
-    "objectID": "56744723958ef13879b955a9"
-  }]
+tags: startup, beginners
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1657877050984/mnciHZYcx.png?auto=compress
 domain: blog.benweston.me.uk
 publishAs: @bweston26918
